@@ -1,4 +1,4 @@
-Spracje/Jezik:DE(Deutsch/German) & Kroatisch(Hrvatski)
+Sprache/Jezik:DE(Deutsch/German) & Kroatisch(Hrvatski)
 
 # Evidencija održavanja i ispitivanja strojeva i uređaja
 
