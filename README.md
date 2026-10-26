@@ -6,7 +6,7 @@ Lokalna web aplikacija za vođenje evidencije o održavanju, periodičnim ispiti
 strojeva i uređaja. Namijenjena je servisnim tvrtkama, ovlaštenim ispitivačima i službama održavanja
 koje trebaju na jednom mjestu imati klijente, njihove uređaje, rokove, zapisnike i dokumentaciju.
 
-Aplikacija radi na vlastitom računalu (Flask + SQLite), u pregledniku, bez interneta i bez
+Aplikacija radi na lokalnom računalu (Flask + SQLite), u pregledniku, bez interneta i bez
 instalacije poslužitelja. Svi podaci spremaju se u jednu datoteku baze (`odrzavanje.db`) i mapu
 `dokumenti/`.
 
